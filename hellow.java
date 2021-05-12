@@ -5,7 +5,7 @@ class HelloWorld {
         Scanner obj = new Scanner(System.in);
         int i = obj.nextInt();
         System.out.println(i);
-        //world.fun();
+        world.fun();
         
     obj.close();
     }
